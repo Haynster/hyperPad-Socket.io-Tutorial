@@ -16,4 +16,10 @@ socket.on("chat", function(input, callback){
 ```
 >4. Run the server and copy the link  
 >5. **And you're done!**  
-test [test](www.youtube.com)
+
+## Creating the hyperPad Project
+>1. Create the new project
+>2. Go in Global Behaviours and add 2 Behaviours **Socket.io Client** and **Connect to Socket**
+>3. Click on the **Socket.io Client** Behaviour and add the link to the forked repl
+>4. Click on **Connect to Socket** and add your *Socket.io Client* behaviour to it
+>
