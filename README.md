@@ -22,4 +22,7 @@ socket.on("chat", function(input, callback){
 >2. Go in Global Behaviours and add 2 Behaviours **Socket.io Client** and **Connect to Socket**
 >3. Click on the **Socket.io Client** Behaviour and add the link to the forked repl
 >4. Click on **Connect to Socket** and add your *Socket.io Client* behaviour to it
->
+
+---
+
+Before you continue, You need knowledge on these things:  
