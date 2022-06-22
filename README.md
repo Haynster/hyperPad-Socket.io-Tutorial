@@ -26,3 +26,6 @@ socket.on("chat", function(input, callback){
 ---
 
 Before you continue, You need knowledge on these things:  
+`Dictonaries`
+`Arrays`
+`General Behaviour Knowledge`
